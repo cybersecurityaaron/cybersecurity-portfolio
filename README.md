@@ -11,7 +11,7 @@ My professional cybersecurity portfolio: projects, tools, and frameworks
 ## 🔐 About Me
 
 I’m a cybersecurity professional with 3 years of IT assurance experience across the U.S., South Korea, and Germany.  
-Skilled in GRC, audit, and cloud security, I'm pivoting deeper into technical cloud security, compliance, and U.S. gov/contractor-focused roles.
+Skilled in GRC, audit, and cloud security, I'm pivoting deeper into technical cloud security and compliance focused roles.
 
 ---
 
